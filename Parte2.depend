@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664304416 source:d:\faculdade\6 semestre\paradigmas\parte2\parte2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
